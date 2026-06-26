@@ -4,7 +4,7 @@ Get your AI Resume Analyzer running in minutes!
 
 ## One-Time Setup
 
-### 1. Get Google Gemini API Key
+### 1. Get Google Gemini API Key 
 - Visit: https://makersuite.google.com/app/apikey
 - Click "Create API Key"
 - Copy the key
