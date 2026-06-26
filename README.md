@@ -1,4 +1,4 @@
-# AI Resume Analyzer
+# AI Resume Analyzer 
 
 AI Resume Analyzer is a MERN stack web application that helps users improve their resumes by comparing them with job descriptions. Users can upload a PDF resume, view a match score, identify missing skills, and receive AI-powered suggestions for improvement using the Google Gemini API.
 
